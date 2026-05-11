@@ -1,15 +1,11 @@
 {
-  "version_code": 3,
-  "version_name": "3.0",
+  "version_code": 5,
+  "version_name": "5.0",
   "apk_url": "https://github.com/ibr4himkh4lil/json-file/releases/download/Test/FB.Downloader_3.0.apk",
   "update_message": "নতুন আপডেট পাওয়া গেছে!",
   "features": [
-    "🤖 উন্নত ডাউনলোড সিস্টেম",
-    "✨ আরও স্মার্ট ভিডিও ডিটেকশন",
-    "🎨 সম্পূর্ণ নতুন Modern UI",
-    "🌙 Premium Dark Mode Redesign",
-    "🚀 দ্রততর ও স্মুথ পারফরম্যান্স",
-    "🔧 Stability improvement ও bug fixes",
-    "💎 Better Material 3 experience"
+    "✅ নতুন UI redesign",
+    "✅ Download speed উন্নতি",
+    "✅ Bug fixes"
   ]
 }
