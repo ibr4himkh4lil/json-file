@@ -2,5 +2,14 @@
   "version_code": 3,
   "version_name": "3.0",
   "apk_url": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v3.0/app-release.apk",
-  "update_message": "নতুন আপডেটে অনেক bug fix এবং নতুন feature যোগ হয়েছে। আপডেট করুন।"
+  "update_message": "নতুন আপডেট পাওয়া গেছে!",
+  "features": [
+    "🤖 উন্নত ডাউনলোড সিস্টেম",
+    "✨ আরও স্মার্ট ভিডিও ডিটেকশন",
+    "🎨 সম্পূর্ণ নতুন Modern UI",
+    "🌙 Premium Dark Mode Redesign",
+    "🚀 দ্রততর ও স্মুথ পারফরম্যান্স",
+    "🔧 Stability improvement ও bug fixes",
+    "💎 Better Material 3 experience"
+  ]
 }
