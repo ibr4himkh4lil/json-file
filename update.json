@@ -1,11 +1,13 @@
 {
-  "version_code": 7,
-  "version_name": "7.0",
+  "version_code": 10,
+  "version_name": "10.0",
   "apk_url": "https://github.com/ibr4himkh4lil/json-file/releases/download/17/Fb_down.apk",
   "update_message": "নতুন আপডেট পাওয়া গেছে!",
   "features": [
-    "✅ নতুন UI redesign",
-    "✅ Download speed উন্নতি",
-    "✅ Bug fixes"
+    "✅ নতুন UI redesign করা হয়েছে",
+    "✅ Download speed আরও উন্নত করা হয়েছে",
+    "✅ একাধিক Bug fix করা হয়েছে",
+    "✅ Facebook video detection আরও accurate করা হয়েছে",
+    "✅ App performance অনেক improve করা হয়েছে"
   ]
 }
